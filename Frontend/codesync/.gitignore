@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+dist/
+dist-ssr/
+
+# Local env files
+.env
+.env.*.local
+*.local
+
+# OS files
+.DS_Store
+
+# Build files (React)
+build/
+
+# Editor settings
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Optional: if you're using Next.js or Vite
+.next/
+out/
